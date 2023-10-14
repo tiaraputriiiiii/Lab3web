@@ -8,9 +8,9 @@ Kelas : TI.22.A.1
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
-|1|Instruksi Praktikum|[Click Here](#Instruksi Praktikum)|
+|1|Instruksi Praktikum|[Click Here](#Instruksi-Praktikum)|
 |2|Praktikum|[Click Here](#praktikum)|
-|3|Pertanyaan dan Tugas|[Click Here](#Pertanyaan dan Tugas)|
+|3|Pertanyaan dan Tugas|[Click Here](#Pertanyaan-dan-Tugas)|
 
 ## Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
